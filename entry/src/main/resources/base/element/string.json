@@ -1,0 +1,212 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "JavaUIDemo"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Wearable_Empty Feature Ability"
+    },
+    {
+      "name": "HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "texts",
+      "value": "Show Texts"
+    },
+    {
+      "name": "buttons",
+      "value": "Show Buttons"
+    },
+    {
+      "name": "check_boxes",
+      "value": "Show Checkboxes"
+    },
+    {
+      "name": "show_text_fields",
+      "value": "Show Text Fields"
+    },
+    {
+      "name": "show_pickers",
+      "value": "Show Pickers"
+    },
+    {
+      "name": "show_date_picker",
+      "value": "Show Date Picker"
+    },
+    {
+      "name": "show_time_picker",
+      "value": "Show Time Picker"
+    },
+    {
+      "name": "show_switch",
+      "value": "Show Switch"
+    },
+    {
+      "name": "show_radio_buttons",
+      "value": "Show Radio Buttons"
+    },
+    {
+      "name": "show_progress_bar",
+      "value": "Show Progress Bars"
+    },
+    {
+      "name": "show_toast",
+      "value": "Show Toasts"
+    },
+    {
+      "name": "show_images",
+      "value": "Show Images"
+    },
+    {
+      "name": "show_page_slider",
+      "value": "Show Page Slider"
+    },
+    {
+      "name": "text_button",
+      "value": "Text Button"
+    },
+    {
+      "name": "service_ability_button_text",
+      "value": "Show Background Task"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "content",
+      "value": "Content"
+    },
+    {
+      "name": "previous",
+      "value": "Previous"
+    },
+    {
+      "name": "next",
+      "value": "Next"
+    },
+    {
+      "name": "which_of_the_following_are_fruits",
+      "value": "Which of the following are fruits?"
+    },
+    {
+      "name": "a_apples",
+      "value": "A) Apples"
+    },
+    {
+      "name": "b_bananas",
+      "value": "B) Bananas"
+    },
+    {
+      "name": "c_strawberries",
+      "value": "C) Strawberries"
+    },
+    {
+      "name": "d_potatoes",
+      "value": "D) Potatoes"
+    },
+    {
+      "name": "picker_title",
+      "value": "Normal Picker"
+    },
+    {
+      "name": "date_picker",
+      "value": "Date Picker"
+    },
+    {
+      "name": "time_picker",
+      "value": "Time Picker"
+    },
+    {
+      "name": "selected_date",
+      "value": "selected date"
+    },
+    {
+      "name": "off",
+      "value": "OFF"
+    },
+    {
+      "name": "on",
+      "value": "ON"
+    },
+    {
+      "name": "javascript",
+      "value": "A) JavaScript"
+    },
+    {
+      "name": "java",
+      "value": "B) Java"
+    },
+    {
+      "name": "kotlin",
+      "value": "C) Kotlin"
+    },
+    {
+      "name": "enter_phone_number_or_email",
+      "value": "Enter phone number or email"
+    },
+    {
+      "name": "enter_comment",
+      "value": "Enter comment"
+    },
+    {
+      "name": "plus",
+      "value": "+"
+    },
+    {
+      "name": "button_with_icon",
+      "value": "button with icon"
+    },
+    {
+      "name": "customized_toast",
+      "value": "Customized Toast"
+    },
+    {
+      "name": "customized_toast_with_image",
+      "value": "Toast with Image"
+    },
+    {
+      "name": "default_toast",
+      "value": "Default Toast"
+    },
+    {
+      "name": "toast_in_middle",
+      "value": "Toast in the middle"
+    },
+    {
+      "name": "custom_toast",
+      "value": "Custom Toast"
+    },
+    {
+      "name": "toast_with_image",
+      "value": "Toast with image"
+    },
+    {
+      "name": "test_progress_text",
+      "value": "20%"
+    },
+    {
+      "name": "test_rounded_progressbar_text",
+      "value": "Round"
+    },
+    {
+      "name": "serviceability_description",
+      "value": "A sample background service"
+    },
+    {
+      "name": "get_data",
+      "value": "Get data"
+    },
+    {
+      "name": "stop_bg_service",
+      "value": "Stop"
+    },
+    {
+      "name": "background_task_is_running",
+      "value": "Background task is running"
+    }
+  ]
+}
