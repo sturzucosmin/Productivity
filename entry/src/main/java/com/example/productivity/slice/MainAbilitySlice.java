@@ -16,8 +16,9 @@ public class MainAbilitySlice extends AbilitySlice {
         int hour = timePicker.getHour();
         int minute = timePicker.getMinute();
 
-        timePicker.setHour(20);
-        timePicker.setMinute(10);
+        timePicker.setHour(0);
+        timePicker.setMinute(0);
+        timePicker.setRange(new int[]{0, 0, 0, 12, 59, 59});
 
         timePicker.setTimeChangedListener((timePicker1, hour1, minute1, second1) -> {
             //ToDo:
