@@ -3,6 +3,7 @@ package com.example.productivity.slice;
 import com.example.productivity.ResourceTable;
 import ohos.aafwk.ability.AbilitySlice;
 import ohos.aafwk.content.Intent;
+import ohos.agp.components.Button;
 import ohos.agp.components.TimePicker;
 
 public class MainAbilitySlice extends AbilitySlice {
@@ -10,6 +11,9 @@ public class MainAbilitySlice extends AbilitySlice {
     public void onStart(Intent intent) {
         super.onStart(intent);
         super.setUIContent(ResourceTable.Layout_ability_main);
+
+        Button buttonToBreaksSetup = (Button) findComponentById(ResourceTable.Id_buttonToBreaksSetup);
+        // buttonFinishSetup.setClickedListener(listener -> present(new TextsAbilitySlice(), new Intent()));
 
         TimePicker timePicker = (TimePicker) findComponentById(ResourceTable.Id_time_picker);
         timePicker.showSecond(false);
@@ -21,8 +25,10 @@ public class MainAbilitySlice extends AbilitySlice {
         timePicker.setRange(new int[]{0, 0, 0, 12, 59, 59});
 
         timePicker.setTimeChangedListener((timePicker1, hour1, minute1, second1) -> {
-            //ToDo:
-        });
+                    //ToDo:
+                }
+        );
+
     }
 
     @Override

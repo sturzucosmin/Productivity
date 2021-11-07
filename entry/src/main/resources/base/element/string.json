@@ -207,6 +207,18 @@
     {
       "name": "background_task_is_running",
       "value": "Background task is running"
+    },
+    {
+      "name": "mainability2_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability2_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "entry_MainAbility2",
+      "value": "entry_MainAbility2"
     }
   ]
 }
